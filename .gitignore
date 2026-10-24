@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+*.db
+uploads/
+outputs/
+models/*.onnx
+check_frontend.py
