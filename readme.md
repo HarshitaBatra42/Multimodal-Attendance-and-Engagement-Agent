@@ -1,5 +1,8 @@
 # Multimodal Attendance & Engagement Agent
 
+
+**Demo video:** [Watch on YouTube](https://youtu.be/m9piJEPX8Ts)
+
 A classroom assistant that takes attendance from a camera by recognising enrolled students, estimates how engaged the class is from video and audio signals, saves every session to a database, and suggests teaching improvements.
 
 ## Features
